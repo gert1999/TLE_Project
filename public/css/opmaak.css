@@ -1,0 +1,88 @@
+.card-img{
+    height: 100px;
+    width: 100px;
+}
+.btn {
+    background-color: #f5d142;
+    border: none;
+    color: white;
+    padding: 8px;
+    font-size: 12px;
+    cursor: pointer;
+}
+.btn:hover {
+    background-color: RoyalBlue;
+}
+.card {
+    max-width: 800px;
+    text-align: center;
+    font-family: arial;
+    margin: 0px;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.card1 {
+    max-width: 800px;
+    text-align: left;
+    font-family: arial;
+    padding: 0 0;
+}
+.card2{
+    padding-top: 70px;
+}
+.rowcard{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    background-color: white;
+}
+.card h1 {
+    color: black;
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+}
+
+button:hover, a:hover {
+    opacity: 0.7;
+}
+.rowcard img{
+    padding-top: 15px;
+}
+.container{
+    padding-bottom: 80px;
+}
+.page-footer{
+    background: white;
+    padding-bottom: 20px;
+    box-shadow: 0 .5rem 1rem rgba(.15,0,0,0)!important;
+    box-sizing: border-box;
+    border: 1px solid #d2d6dc;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: #4a2529;
+    text-align: center;
+}
+.footer-copyright{
+    box-shadow: 0px 10px 5px #fff, 0px -10px 5px #dfe0e1;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+/*span.relative.z-0{*/
+/*    position: absolute!important;*/
+/*    left: 0px;*/
+/*    background: #f4f5f7;*/
+/*}*/
+
+/*p.leading-5{*/
+/*    position: absolute;*/
+/*    right: 0px;*/
+/*    background-color: #ffffff;*/
+/*    padding: 10px;*/
+/*}*/
